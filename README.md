@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This is an Interactive User Interface for the AMRs. Integration between the front end, back end, and ROS2 is complete however not all buttons and components are fully functional. 
+This is an Interactive User Interface for the AMRs. Integration between the front end, back end, and ROS2 is complete however not all buttons and components are fully functional. Currently, only `go and charge` and `undock and arm` are fully functional. 
 
 ## Installation 
 
