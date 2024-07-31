@@ -1,5 +1,9 @@
 # AMR Interactive User Interface
 
+## Overview 
+
+This is an Interactive User Interface for the AMRs. Integration between the front end, back end, and ROS2 is complete however not all buttons and components are fully functional. 
+
 ## Installation 
 
 ```
@@ -64,5 +68,14 @@ To create a production build, use npm run build.
 
 webpack compiled successfully
 ```
+You can access the UI using either of the URLs provided upon start-up depending on if the program is local or on a different device using the same network.
 
 ### Visualization of the UI
+Below is a visualization of how the UI will look. 
+
+<img width="500" alt="Screenshot 2024-07-31 at 12 09 02 PM" src="https://github.com/user-attachments/assets/46ecf11d-bfbe-4d97-ad7c-c91cdf2cf3d8">
+<img width="500" alt="Screenshot 2024-07-31 at 12 09 27 PM" src="https://github.com/user-attachments/assets/828b82d6-0d85-43c5-ba85-af816917d7f7">
+
+
+
+
